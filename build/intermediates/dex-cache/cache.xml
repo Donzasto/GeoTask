@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAIN\Android_SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\MAIN\Workspace\GeoTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_7e6366967436c1a01d3a180713d796819ce42cf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAIN\Workspace\GeoTask\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\MAIN\Workspace\GeoTask\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3e609370c85a5881ebd204ffc0456fb0db2ae6cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAIN\.android\build-cache\6dbf383c586cc15945c0f604d74311e04e1ae719\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059">
+        <dex dex="C:\Users\MAIN\Workspace\GeoTask\app\build\intermediates\pre-dexed\debug\classes_02e21a925ab80de2d48ece050a56defdd6f20737.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAIN\.android\build-cache\6dbf383c586cc15945c0f604d74311e04e1ae719\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059">
+        <dex dex="C:\Users\MAIN\Workspace\GeoTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02e21a925ab80de2d48ece050a56defdd6f20737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAIN\Workspace\GeoTask\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1a5012b7785720b3e09f15dc2013bcfe2f30551">
+        <dex dex="C:\Users\MAIN\Workspace\GeoTask\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4f7808acbaf4e7e5be72fbc926fa1fbbda2151c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAIN\.android\build-cache\8c13c74282394585588dc3c4d1a957c8c9f31866\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\MAIN\Workspace\GeoTask\app\build\intermediates\pre-dexed\debug\classes_cad9ca8f06f451113ace426094141b04d2c6c9de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MAIN\Android_SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\MAIN\Workspace\GeoTask\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_7e6366967436c1a01d3a180713d796819ce42cf3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAIN\.android\build-cache\8c13c74282394585588dc3c4d1a957c8c9f31866\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\MAIN\Workspace\GeoTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cad9ca8f06f451113ace426094141b04d2c6c9de\classes.dex" />
+    </item>
+
+</items>
